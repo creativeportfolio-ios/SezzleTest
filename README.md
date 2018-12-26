@@ -15,3 +15,5 @@ git clone https://github.com/creativeportfolio-ios/SezzleTest.git
 cd SezzleTest
 npm install
 ```
+
+![ScreenShot](https://github.com/creativeportfolio-ios/SezzleTest/blob/master/Screenshot_1545833276.png)
