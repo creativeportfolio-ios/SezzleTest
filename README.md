@@ -27,4 +27,4 @@ react-native run-android
 
 ```
 
-![ScreenShot](https://github.com/creativeportfolio-ios/SezzleTest/blob/master/Screenshot_1545833276.png =250x)![ScreenShot](https://github.com/creativeportfolio-ios/SezzleTest/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-12-27%20at%2012.18.54.png =250x)
+![ScreenShot](https://github.com/creativeportfolio-ios/SezzleTest/blob/master/Screenshot_1545833276.png)![ScreenShot](https://github.com/creativeportfolio-ios/SezzleTest/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-12-27%20at%2012.18.54.png)
