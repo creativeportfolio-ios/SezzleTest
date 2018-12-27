@@ -36,7 +36,6 @@ const setAlignment = ({ align }) => {
 }
 
 export const Text = styled.Text`
-  font-family: ${props => fonts[props.weight] || fonts.family};
   ${props => props.height && `height: ${props.height}`};
   ${props => props.left ?
     `margin-left: ${horizontalPixels(props.left)}` :
