@@ -14,6 +14,13 @@ Once you have downloaded or cloned this repository, run `npm install` inside the
 git clone https://github.com/creativeportfolio-ios/SezzleTest.git
 cd SezzleTest
 npm install
+
+For iOS
+react-native run-ios
+
+For Android
+react-native run-android
+
 ```
 
 ![ScreenShot](https://github.com/creativeportfolio-ios/SezzleTest/blob/master/Screenshot_1545833276.png)
